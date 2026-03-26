@@ -1,0 +1,2 @@
+# AOC2025GO
+AOC 2025 in GO
