@@ -1,2 +1,2 @@
 # AOC2025PY
-AOC 2025 in GO
+AOC 2025 in Python
